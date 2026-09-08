@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!--
+	  HMGS Koçu gizlilik beyanı (privacy manifest).
+
+	  Uygulama hiçbir veri toplamıyor, hiçbir sunucuya veri göndermiyor ve
+	  izleme (tracking) yapmıyor. Tüm ilerleme kullanıcının cihazında kalıyor.
+	  Bu dosya App Store Connect'teki "App Privacy" bölümüyle birebir uyumlu
+	  doldurulmalıdır: "Data Not Collected".
+	-->
+	<key>NSPrivacyTracking</key>
+	<false/>
+
+	<key>NSPrivacyTrackingDomains</key>
+	<array/>
+
+	<key>NSPrivacyCollectedDataTypes</key>
+	<array/>
+
+	<key>NSPrivacyAccessedAPITypes</key>
+	<array>
+		<dict>
+			<!--
+			  UserDefaults: görünüm tercihi, günlük hedef, onboarding durumu gibi
+			  yalnızca bu uygulamanın kendi ayarları için kullanılıyor.
+			  CA92.1 = "Access info from same app, per documentation".
+			-->
+			<key>NSPrivacyAccessedAPIType</key>
+			<string>NSPrivacyAccessedAPICategoryUserDefaults</string>
+			<key>NSPrivacyAccessedAPITypeReasons</key>
+			<array>
+				<string>CA92.1</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

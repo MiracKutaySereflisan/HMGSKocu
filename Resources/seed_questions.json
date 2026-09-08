@@ -1,0 +1,1370 @@
+[
+  {
+    "id": "46d65671-8998-402f-a867-fe9381cb3d51",
+    "subject": "adli_bilisim",
+    "difficulty": "orta",
+    "topicTag": "5651 Sayılı Kanun",
+    "prompt": "İnternet ortamında yapılan yayınların düzenlenmesi ve bu yayınlar yoluyla işlenen suçlarla mücadeleyi düzenleyen temel kanun hangisidir?",
+    "options": [
+      "6698 sayılı KVKK",
+      "5237 sayılı TCK",
+      "5809 sayılı Elektronik Haberleşme Kanunu",
+      "5271 sayılı CMK",
+      "5651 sayılı Kanun"
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun, internet içerik/yer/erişim sağlayıcılarının yükümlülüklerini, erişim engelleme ve içerik kaldırma usullerini düzenler.",
+    "lawReference": "5651 s.K.",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "6bbd328d-260e-4f9a-b2ea-014ec241986e",
+    "subject": "adli_bilisim",
+    "difficulty": "orta",
+    "topicTag": "Güvenli Elektronik İmza",
+    "prompt": "5070 sayılı Elektronik İmza Kanununa göre güvenli elektronik imzanın hukuki sonucu nedir?",
+    "options": [
+      "Sadece kamu kurumları arasında geçerlidir",
+      "Yalnızca ticari sözleşmelerde kullanılabilir, resmi işlemlerde geçersizdir",
+      "Güvenli elektronik imza, elle atılan imza ile aynı hukuki sonucu doğurur",
+      "Hiçbir hukuki geçerliliği yoktur",
+      "Yalnızca yurt dışında geçerlidir"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "5070 sayılı Elektronik İmza Kanunu m.5 uyarınca güvenli elektronik imza, elle atılan imza ile aynı ispat gücüne ve hukuki sonuca sahiptir (kanunun aradığı bazı istisnai şekle bağlı işlemler hariç).",
+    "lawReference": "5070 s.K. m. 5",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "fcf8325f-96ed-490f-a6d1-f617559a4789",
+    "subject": "adli_bilisim",
+    "difficulty": "orta",
+    "topicTag": "Delil Bütünlüğü",
+    "prompt": "Adli bilişim incelemelerinde 'delil zinciri' (chain of custody) kavramı neyi ifade eder?",
+    "options": [
+      "Delilin yalnızca savcı tarafından toplanabileceğini",
+      "Delilin şifrelenmesi zorunluluğunu",
+      "Delilin yalnızca bir kez incelenebileceği kuralını",
+      "Delilin mutlaka yurt dışında saklanması gerektiğini",
+      "Dijital delilin ele geçirilmesinden mahkemeye sunulmasına kadar kim tarafından, ne zaman ve nasıl işlendiğinin kesintisiz olarak belgelenmesi"
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "Delil zinciri (chain of custody), dijital delilin bütünlüğünün ve güvenilirliğinin mahkemede kabul edilebilmesi için, ele geçirildiği andan itibaren her el değiştirmenin ve işlemin kayıt altına alınmasını gerektirir.",
+    "lawReference": "Adli bilişim doktrini",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "02bc50ef-d64e-4845-987e-1e436f717bbf",
+    "subject": "anayasa_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Kanunların Cumhurbaşkanınca Yayımlanması",
+    "prompt": "Anayasa m. 89'a göre TBMM'ce kabul edilen bir kanunu Cumhurbaşkanı yayımlanmasını kısmen veya tamamen uygun bulmazsa ne yapabilir?",
+    "options": [
+      "Kanunu değiştirerek kendisi yayımlar",
+      "Kanunu, gerekçesiyle birlikte bir daha görüşülmek üzere TBMM'ye geri gönderir",
+      "Kanunu hiçbir işlem yapmadan askıya alır",
+      "Kanunu doğrudan iptal eder",
+      "Kanunu Anayasa Mahkemesi'ne resen götürür"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Anayasa m.89: 'Cumhurbaşkanı, Türkiye Büyük Millet Meclisince kabul edilen kanunları onbeş gün içinde yayımlar. Yayımlanmasını kısmen veya tamamen uygun bulmadığı kanunları, bir daha görüşülmek üzere, bu hususta gösterdiği gerekçe ile birlikte aynı süre içinde, Türkiye Büyük Millet Meclisine geri gönderir.' Doğru cevap gerekçeli geri göndermedir. Kanunu değiştirerek yayımlama seçeneği yasama yetkisini yürütmeye devreder. Doğrudan iptal etme seçeneği ise anayasa yargısına ait bir yetkiyi Cumhurbaşkanına verir. Hiçbir işlem yapmadan askıya alma ve resen Anayasa Mahkemesine götürme seçeneklerinin dayanağı yoktur. Ayrım ipucu: bütçe kanunları bu geri gönderme hükmüne tabi değildir. [Dayanak metin: 2709 s. Anayasa, 16.08.2026 tarihli sürüm]",
+    "lawReference": "Anayasa m. 89",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "6f85ad2d-da8e-4786-86c7-64543360c826",
+    "subject": "anayasa_hukuku",
+    "difficulty": "kolay",
+    "topicTag": "Anayasanın Üstünlüğü",
+    "prompt": "Anayasa m.11'e göre kanunlar Anayasa'ya nasıl bir ilişki içindedir?",
+    "options": [
+      "Anayasa yalnızca yol gösterici ilke niteliğindedir, bağlayıcı değildir",
+      "Kanunlar ile Anayasa eşit hükümdedir, çatışma halinde sonraki kanun uygulanır",
+      "Anayasa sadece devlet organlarını bağlar, kişileri bağlamaz",
+      "Anayasa hükümleri, yasama, yürütme ve yargı organlarını, idare makamlarını ve diğer kuruluş ve kişileri bağlayan temel hukuk kurallarıdır; kanunlar Anayasaya aykırı olamaz",
+      "Kanunlar Anayasa'dan üstündür"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Anayasa m.11: 'Anayasa hükümleri, yasama, yürütme ve yargı organlarını, idare makamlarını ve diğer kuruluş ve kişileri bağlayan temel hukuk kurallarıdır. Kanunlar Anayasaya aykırı olamaz.' Doğru cevap bu iki cümleyi birlikte veren seçenektir. Kanunların Anayasadan üstün olduğu ve ikisinin eşit hükümde bulunduğu seçenekleri normlar hiyerarşisini tersine çevirir. Anayasanın yalnızca yol gösterici olduğu seçeneği bağlayıcılığı kaldırır; madde açıkça 'bağlayan temel hukuk kuralları' der. Anayasanın yalnızca devlet organlarını bağladığı seçeneği de metne aykırıdır: hüküm 'diğer kuruluş ve kişileri' de kapsar. Ayrım ipucu: bu madde hem Anayasanın üstünlüğünü hem bağlayıcılığını kurar. [Dayanak metin: 2709 s. Anayasa, 16.08.2026 tarihli sürüm]",
+    "lawReference": "Anayasa m. 11",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "c9c7e5e3-9fbb-4606-9b9e-99fc6402cdf3",
+    "subject": "anayasa_hukuku",
+    "difficulty": "kolay",
+    "topicTag": "Cumhuriyetin Nitelikleri",
+    "prompt": "Anayasa m.2'de sayılan Cumhuriyetin nitelikleri arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Demokratik devlet",
+      "Federal devlet yapısı",
+      "Laik devlet",
+      "Hukuk devleti",
+      "Sosyal devlet"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Anayasa m.2: 'Türkiye Cumhuriyeti, toplumun huzuru, milli dayanışma ve adalet anlayışı içinde, insan haklarına saygılı, Atatürk milliyetçiliğine bağlı, başlangıçta belirtilen temel ilkelere dayanan, demokratik, laik ve sosyal bir hukuk Devletidir.' Bu sayımda federal devlet yapısı yoktur; doğru cevap odur. Türkiye üniter bir devlettir ve m.3 uyarınca ülkesi ve milletiyle bölünmez bir bütündür. Demokratik, laik, sosyal ve hukuk devleti nitelikleri ise maddede sayılmıştır. Ayrım ipucu: bu niteliklerin önemi m.4'te görülür — m.1, m.2 ve m.3 hükümleri değiştirilemez ve değiştirilmesi teklif dahi edilemez; yani Cumhuriyetin nitelikleri anayasal olarak dokunulmazdır. [Dayanak metin: 2709 s. Anayasa, 16.08.2026 tarihli sürüm]",
+    "lawReference": "Anayasa m. 2",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "1e77fb84-e932-4b08-8c18-104c999c8dcb",
+    "subject": "anayasa_yargisi",
+    "difficulty": "orta",
+    "topicTag": "Yüce Divan",
+    "prompt": "Anayasa Mahkemesi hangi sıfatla Cumhurbaşkanını, Cumhurbaşkanı yardımcılarını ve bakanları görevleriyle ilgili suçlardan yargılar?",
+    "options": [
+      "Yüce Divan sıfatıyla",
+      "Danıştay Genel Kurulu sıfatıyla",
+      "Uyuşmazlık Mahkemesi sıfatıyla",
+      "Yargıtay Ceza Genel Kurulu sıfatıyla",
+      "Hâkimler ve Savcılar Kurulu sıfatıyla"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Anayasa m.148 uyarınca Anayasa Mahkemesi, Cumhurbaşkanını, Cumhurbaşkanı yardımcılarını ve bakanları görevleriyle ilgili suçlardan dolayı Yüce Divan sıfatıyla yargılar.",
+    "lawReference": "Anayasa m. 148",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "9d7160c4-6fb2-401d-899d-2fa20e8ecbf4",
+    "subject": "anayasa_yargisi",
+    "difficulty": "kolay",
+    "topicTag": "AYM Üye Sayısı",
+    "prompt": "Anayasa Mahkemesi kaç üyeden oluşur?",
+    "options": [
+      "15",
+      "13",
+      "19",
+      "11",
+      "17"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Anayasa m.146 uyarınca Anayasa Mahkemesi on beş üyeden kurulur.",
+    "lawReference": "Anayasa m. 146",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "d91460f7-6665-4eff-9346-51ef172d60e0",
+    "subject": "anayasa_yargisi",
+    "difficulty": "orta",
+    "topicTag": "Bireysel Başvuru",
+    "prompt": "6216 sayılı Kanun m. 47/5 uyarınca Anayasa Mahkemesine bireysel başvuru, başvuru yollarının tüketildiği tarihten itibaren kaç gün içinde yapılmalıdır?",
+    "options": [
+      "Otuz gün",
+      "Doksan gün",
+      "On beş gün",
+      "Altmış gün",
+      "Yirmi gün"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "6216 sayılı Kanun m. 47/5 uyarınca bireysel başvuru, başvuru yollarının tüketildiği tarihten; başvuru yolu öngörülmemişse ihlalin öğrenildiği tarihten itibaren otuz gün içinde yapılmalıdır; bu süre hak düşürücüdür.",
+    "lawReference": "6216 s.K. m. 47",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "1bac7d2c-c0ed-40eb-8f85-7f40c3cdae29",
+    "subject": "avrupa_birligi_hukuku",
+    "difficulty": "kolay",
+    "topicTag": "Türkiye-AB İlişkileri",
+    "prompt": "Türkiye ile Avrupa Ekonomik Topluluğu arasındaki ortaklık ilişkisinin hukuki temelini oluşturan 1963 tarihli andlaşma aşağıdakilerden hangisidir?",
+    "options": [
+      "Maastricht Antlaşması",
+      "Lizbon Antlaşması",
+      "Katma Protokol",
+      "Ankara Anlaşması",
+      "Roma Antlaşması"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "1963 tarihli Ankara Anlaşması, Türkiye ile AET arasındaki ortaklık ilişkisinin hukuki temelini oluşturur; 1970 tarihli Katma Protokol ise bu ilişkiyi somutlaştırır.",
+    "lawReference": "1963 Ankara Anlaşması",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "56ce7a1f-dd49-4ae3-b381-2bb4cc1db0b7",
+    "subject": "avrupa_birligi_hukuku",
+    "difficulty": "zor",
+    "topicTag": "AB Hukukunun Önceliği",
+    "prompt": "Avrupa Birliği Adalet Divanı'nın Costa v. ENEL (1964) kararıyla geliştirdiği, AB hukukunun üye devletlerin iç hukukuyla çatışması hâlinde nasıl uygulanacağına ilişkin ilke hangisidir?",
+    "options": [
+      "Orantılılık ilkesi",
+      "Karşılıklı tanıma ilkesi",
+      "AB hukukunun önceliği (supremacy) ilkesi — çatışma hâlinde AB hukuku uygulanır",
+      "Ayrımcılık yasağı ilkesi",
+      "Sübsidiarite (yerindenlik) ilkesi"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "ABAD'ın Costa v. ENEL kararıyla ortaya koyduğu AB hukukunun önceliği ilkesine göre, AB hukuku ile üye devlet iç hukuku çatıştığında AB hukuku öncelikle uygulanır; bu ilke antlaşmalarda açıkça yazılı olmasa da ABAD içtihadıyla yerleşmiştir.",
+    "lawReference": "AB hukuku — ABAD, Costa v. ENEL (1964)",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "5ed4e8bc-07d3-40c4-8941-988a9786554d",
+    "subject": "avrupa_birligi_hukuku",
+    "difficulty": "kolay",
+    "topicTag": "Doğrudan Etki",
+    "prompt": "AB hukukunda 'doğrudan etki' ilkesi neyi ifade eder?",
+    "options": [
+      "Üye devletlerin AB kararlarını veto edebilmesini",
+      "AB kararlarının yalnızca üye devletleri bağlamasını, bireyleri hiçbir şekilde bağlamamasını",
+      "AB organlarının doğrudan seçimle belirlenmesini",
+      "Belirli AB hukuku normlarının, üye devlet iç hukukuna aktarılmasına gerek kalmaksızın bireylere doğrudan hak ve yükümlülük doğurabilmesini",
+      "AB hukukunun üye devlet anayasalarından her zaman üstün sayılmamasını"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Van Gend en Loos kararıyla geliştirilen doğrudan etki ilkesine göre, belirli koşulları taşıyan AB hukuku normları iç hukuka aktarılmaya gerek kalmaksızın bireylere doğrudan haklar tanıyabilir.",
+    "lawReference": "AB hukuku doktrini (Van Gend en Loos)",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "40b94105-5971-41d4-a6ae-1a268474b0ff",
+    "subject": "borclar_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Alacaklının Temerrüdü",
+    "prompt": "Türk Borçlar Kanunu'na göre alacaklı, haklı bir sebep olmaksızın kendisine usulüne uygun olarak sunulan edimi kabulden kaçınırsa (alacaklı temerrüdü) borçlu ne yapabilir?",
+    "options": [
+      "Borçlu, edimi üçüncü bir kişiye bağışlamak zorundadır.",
+      "Borçlu doğrudan cezai şikâyette bulunur.",
+      "Borçlu edimi mutlaka saklamak zorundadır ve hiçbir hakkı yoktur.",
+      "Borç kendiliğinden sona erer.",
+      "Borçlu, hasar ve giderleri alacaklıya ait olmak üzere teslim edeceği şeyi tevdi ederek borcundan kurtulabilir."
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "TBK m.106/1 alacaklı temerrüdünü tanımlar: yapma veya verme edimi gereği gibi kendisine önerilen alacaklı, haklı bir sebep olmaksızın onu kabulden veya borçlunun ifa için kendisince yapılması gereken hazırlık fiillerini yapmaktan kaçınırsa temerrüde düşer. m.107/1 ise sonucu gösterir: borçlu, hasar ve giderleri alacaklıya ait olmak üzere teslim edeceği şeyi tevdi ederek borcundan kurtulabilir. Doğru cevap budur. Borcun kendiliğinden sona ereceği ve borçlunun hiçbir hakkı olmadığı seçenekleri bu kurtuluş yolunu yok sayar. Ayrım ipucu: tevdi yerini ifa yerindeki hâkim belirler; ticari mallar hâkim kararı olmadan da bir ardiyeye tevdi edilebilir. [Dayanak metin: 6098 s.K., 16.08.2026 tarihli sürüm]",
+    "lawReference": "TBK m. 106-107",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "52f9e79e-5ae7-441e-bc6a-c567b33c1e4f",
+    "subject": "borclar_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Tüketim Ödüncünde Faiz",
+    "prompt": "Türk Borçlar Kanunu'na göre tüketim ödüncü (karz) sözleşmesinde faiz istenebilmesi bakımından kural nedir?",
+    "options": [
+      "Her ödünçte faiz kendiliğinden işler.",
+      "Ticari olmayan tüketim ödüncünde taraflarca kararlaştırılmadıkça faiz istenemez; ticari tüketim ödüncünde ise kararlaştırılmamış olsa bile faiz istenebilir.",
+      "Faiz yalnızca yabancı para ödünçlerinde istenebilir.",
+      "Faiz yalnızca noter onayıyla istenebilir.",
+      "Ödünçte faiz kararlaştırılması her durumda yasaktır."
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "TBK m.387: 'Ticari olmayan tüketim ödüncü sözleşmesinde, taraflarca kararlaştırılmış olmadıkça faiz istenemez. Ticari tüketim ödüncü sözleşmesinde, taraflarca kararlaştırılmamış olsa bile faiz istenebilir.' Doğru cevap bu ikili ayrımdır. Her ödünçte faizin kendiliğinden işleyeceği seçeneği ticari olmayan ödünç için yanlıştır. Faiz kararlaştırmanın her durumda yasak olduğu seçeneği maddeye tümüyle aykırıdır. Faizin yalnızca yabancı para ödünçlerine özgü olduğu ve noter onayı gerektirdiği seçeneklerinin dayanağı yoktur. Ayrım ipucu: ölçüt sözleşmenin ticari olup olmamasıdır; ticari işlerde faiz olağan sayıldığı için karine tersine döner. [Dayanak metin: 6098 s.K., 16.08.2026 tarihli sürüm]",
+    "lawReference": "TBK m. 387",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "65c1e8ce-b8ee-44f6-b410-0b5d9112527c",
+    "subject": "borclar_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Kesin Hükümsüzlük",
+    "prompt": "TBK m.27'ye göre aşağıdaki sözleşmelerden hangisi kesin hükümsüzdür (batıldır)?",
+    "options": [
+      "Bir tarafın ehliyetsiz olduğu, temsilcisiz yaptığı sözleşme",
+      "İkrah (korkutma) altında yapılan sözleşme",
+      "Konusu kanuna, ahlaka veya kamu düzenine aykırı olan sözleşme",
+      "Bir tarafın hataen yanılarak kurduğu sözleşme",
+      "Aşırı yararlanma (gabin) hali bulunan sözleşme"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "TBK m.27/1: 'Kanunun emredici hükümlerine, ahlaka, kamu düzenine, kişilik haklarına aykırı veya konusu imkânsız olan sözleşmeler kesin olarak hükümsüzdür.' Doğru cevap konusu kanuna, ahlaka veya kamu düzenine aykırı olan sözleşmedir. Diğer seçeneklerin tamamı iptal edilebilirlik alanına girer: yanılma (m.30), aldatma (m.36) ve korkutma (m.37) hâllerinde sözleşme kurulmuştur; iradesi bozulan taraf m.39'daki bir yıllık süre içinde bağlı olmadığını bildirmezse sözleşmeyi onamış sayılır. Aşırı yararlanmada da m.28 zarar görene seçimlik hak tanır, kendiliğinden hükümsüzlük doğmaz. Ayrım ipucu: kesin hükümsüzlük herkesçe ileri sürülebilir ve sonradan geçerli hâle gelmez; iptal edilebilirlik korunan tarafa özgüdür ve süreye tabidir.",
+    "lawReference": "TBK m. 27",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "subject": "ceza_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Azmettirme",
+    "prompt": "Türk Ceza Kanunu'na göre başkasını suç işlemeye azmettiren kişinin cezai sorumluluğu nasıl belirlenir?",
+    "options": [
+      "Azmettirme cezalandırılmaz, yalnızca fail cezalandırılır.",
+      "Yalnızca para cezası verilir.",
+      "İşlenen suçun cezası ile cezalandırılır.",
+      "İşlenen suçun cezasının yarısı ile cezalandırılır.",
+      "Suçun cezasının üçte biri ile cezalandırılır."
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "TCK m.38/1 uyarınca başkasını suç işlemeye azmettiren kişi, işlenen suçun cezası ile cezalandırılır. Azmettirme, suç işleme kararı olmayan kişide bu kararı oluşturmaktır; azmettiren, fail gibi tam cezayla sorumludur.",
+    "lawReference": "TCK m. 38",
+    "id": "516f6319-5901-4066-9abb-4df3b6510f3a",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "subject": "ceza_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Haksız Tahrik",
+    "prompt": "Türk Ceza Kanunu'na göre haksız tahrikin ceza sorumluluğuna etkisi nedir?",
+    "options": [
+      "Failin akıl sağlığının yerinde olmadığını gösterir.",
+      "Haksız bir fiilin meydana getirdiği hiddet veya şiddetli elemin etkisi altında suç işleyen kimsenin cezasında indirim yapılmasını sağlar.",
+      "Cezanın ertelenmesini zorunlu kılar.",
+      "Yalnızca kasten öldürme suçunda uygulanır.",
+      "Cezayı tamamen ortadan kaldırır."
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "TCK m.29/1: Haksız bir fiilin meydana getirdiği hiddet veya şiddetli elemin etkisi altında suç işleyen kimseye, ağırlaştırılmış müebbet yerine on sekiz-yirmi dört yıl, müebbet yerine on iki-on sekiz yıl hapis verilir; diğer hâllerde ceza dörtte birinden dörtte üçüne kadar indirilir. Tahrik kusurluluğu azaltır ve cezada indirim sağlar; doğru cevap budur. Cezayı tamamen kaldırdığını söyleyen seçenek indirimi kaldırmayla karıştırır. Ertelemeyi zorunlu kıldığı seçeneğinin dayanağı yoktur; erteleme m.51'de ayrı koşullara bağlıdır. Tahrik yalnızca kasten öldürmeye özgü değildir, genel hükümler arasında yer alır. Ayrım ipucu: indirimin ölçüsü tahrik eden haksız fiilin ağırlığına göre belirlenir.",
+    "lawReference": "TCK m. 29",
+    "id": "ac62918d-eeef-4684-ad6d-c274ed83ec09",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "subject": "ceza_hukuku",
+    "difficulty": "zor",
+    "topicTag": "Unsur Hatası",
+    "prompt": "Türk Ceza Kanunu'na göre fiilin icrası sırasında suçun kanuni tanımındaki maddi unsurları bilmeyen kişinin sorumluluğu hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Her durumda cezasız kalır.",
+      "Kastı ortadan kalkmaz, tam ceza verilir.",
+      "Hata yalnızca hafifletici neden olarak dikkate alınır.",
+      "Cezası yalnızca yarı oranında indirilir.",
+      "Kasten hareket etmiş sayılmaz; ancak bu hataya ilişkin taksiri varsa taksirli sorumluluğu saklıdır."
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "TCK m.30/1: 'Fiilin icrası sırasında suçun kanuni tanımındaki maddi unsurları bilmeyen bir kimse, kasten hareket etmiş olmaz. Bu hata dolayısıyla taksirli sorumluluk hali saklıdır.' Doğru cevap budur: kast düşer, ancak fiil taksirle de cezalandırılan bir suçsa ve failin bu hatada taksiri varsa taksirli sorumluluk doğar. Kastın ortadan kalkmayacağını söyleyen seçenek maddenin ilk cümlesine doğrudan aykırıdır. Hatanın hafifletici neden sayılacağı ve cezanın yarı indirileceği seçeneklerinin karşılığı yoktur. Ayrım ipucu: m.30/2 uyarınca nitelikli hâllerde hataya düşen kişi hatasından yararlanır; m.30/3 uyarınca sorumluluğu kaldıran nedenlerin şartlarında kaçınılmaz hataya düşen de korunur.",
+    "lawReference": "TCK m. 30/1",
+    "id": "c40ee7ea-3a9d-4a8a-8e96-6c9db9a34ffe",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "0b9ba592-417b-4260-8087-dd5033d8b3e5",
+    "subject": "ceza_muhakemesi_hukuku",
+    "difficulty": "kolay",
+    "topicTag": "İfade Alma - Sorgu Ayrımı",
+    "prompt": "Ceza Muhakemesi Kanunu'na göre 'sorgu' kavramı aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "Şüphelinin kolluk görevlileri tarafından dinlenmesini",
+      "Bilirkişinin görüşünün alınmasını",
+      "Tanığın dinlenmesini",
+      "Şüpheli veya sanığın hâkim veya mahkeme tarafından soruşturma veya kovuşturma konusu suçla ilgili olarak dinlenmesini",
+      "Şüphelinin Cumhuriyet savcısı tarafından dinlenmesini"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "CMK m.2/1-g ifade almayı şüphelinin kolluk görevlileri veya Cumhuriyet savcısı tarafından dinlenmesi, m.2/1-h ise sorguyu şüpheli veya sanığın hâkim ya da mahkeme tarafından soruşturma veya kovuşturma konusu suçla ilgili dinlenmesi olarak tanımlar. Ayrım ölçütü dinleyen makamdır; doğru cevap D'dir. Kolluğun (A) ve savcının (E) dinlemesi ifade almadır, sorgu değil; tanığın dinlenmesi (C) m.43 vd., bilirkişinin görüşünün alınması (B) m.62 vd. hükümlerine tabidir ve ikisi de şüpheliye ilişkin değildir. Ayrım ipucu: hâkim dinlerse sorgu, kolluk veya savcı dinlerse ifade alma. [Dayanak metin: 5271 s.K., 17.08.2026 tarihli sürüm]",
+    "lawReference": "CMK m. 2",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "8c887d47-2a19-4186-9a3b-b1a198a4796b",
+    "subject": "ceza_muhakemesi_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Müdafiin Dosya İnceleme Yetkisi",
+    "prompt": "Ceza Muhakemesi Kanunu'na göre müdafiin soruşturma evresinde dosya içeriğini incelemesi bakımından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Müdafi kural olarak dosya içeriğini inceleyebilir ve istediği belgelerin örneğini harçsız alabilir; ancak soruşturmanın amacını tehlikeye düşürebilecek ise bu yetki, kanunda sayılan suçlarda hâkim kararıyla kısıtlanabilir; şüphelinin ifade tutanakları, bilirkişi raporları ve şüphelinin katılmaya yetkili olduğu işlem tutanakları hiçbir şekilde kısıtlanamaz.",
+      "Kısıtlama kararını kolluk amiri verir.",
+      "Müdafi dosyayı ancak Cumhuriyet savcısının izniyle ve ücret karşılığında inceleyebilir.",
+      "Dosya inceleme yetkisi yalnızca kovuşturma evresinde doğar ve iddianameyle başlar.",
+      "Müdafi soruşturma evresinde dosyayı hiçbir şekilde inceleyemez."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "CMK m.153 uyarınca müdafi, soruşturma evresinde dosya içeriğini inceleyebilir ve istediği belgelerin bir örneğini harçsız olarak alabilir. Bu yetki, soruşturmanın amacını tehlikeye düşürebilecek ise Cumhuriyet savcısının istemi üzerine hâkim kararıyla ve yalnızca kanunda sayılan katalog suçlarda kısıtlanabilir. Ancak şüphelinin ifadesini içeren tutanaklar, bilirkişi raporları ve şüphelinin hazır bulunmaya yetkili olduğu adli işlemlere ilişkin tutanaklar hakkında kısıtlama kararı verilemez.",
+    "lawReference": "CMK m. 153",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "cba95810-086c-4fa2-ad74-5b9408aa64c2",
+    "subject": "ceza_muhakemesi_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Gözaltı Süresi",
+    "prompt": "CMK'ya göre gözaltı süresi, yakalama yerine en yakın hâkim veya mahkemeye gönderilmesi için zorunlu süre hariç, kural olarak yakalama anından itibaren kaç saati geçemez?",
+    "options": [
+      "24 saat",
+      "72 saat",
+      "12 saat",
+      "96 saat",
+      "48 saat"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "CMK m.91/1: gözaltı süresi, yakalama yerine en yakın hâkim veya mahkemeye gönderilmesi için zorunlu süre hariç, yakalama anından itibaren yirmi dört saati geçemez; bu zorunlu süre de on iki saatten fazla olamaz. Sorulan kural süre bu yirmi dört saattir, doğru cevap A'dır. 48 saat (E) ve dört gün, m.91/4'teki suçüstü ve toplumsal olay hâllerine ait özel sürelerdir; 72 saat (B) ve 96 saat (D) ise toplu olarak işlenen suçlarda savcının yazılı emirle yaptığı uzatmayla (m.91/3: her defasında bir günü geçmemek üzere üç gün) karıştırılan rakamlardır. Ayrım ipucu: 24 saat kural, uzatma istisnadır. [Dayanak metin: 5271 s.K., 17.08.2026 tarihli sürüm]",
+    "lawReference": "CMK m. 91",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "39b26993-410b-4fb0-abb1-83ad6a798000",
+    "subject": "fikri_sinai_haklar",
+    "difficulty": "kolay",
+    "topicTag": "Eser Sahipliği",
+    "prompt": "FSEK'e göre eser sahibi kural olarak kimdir?",
+    "options": [
+      "Eserin tescilini yaptıran kişi",
+      "Eserin ilk kez kamuya sunulmasını sağlayan kişi",
+      "Eserin finansmanını sağlayan kişi",
+      "Eserin yayımcısı",
+      "Eseri meydana getiren gerçek kişi"
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "FSEK m.8: Bir eserin sahibi, onu meydana getirendir; tüzel kişiler eser sahibi sayılmaz, ancak bağlantılı hak sahibi olabilirler.",
+    "lawReference": "FSEK m. 8",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "a7407c14-e7ab-4ea5-9667-c1f418562a72",
+    "subject": "fikri_sinai_haklar",
+    "difficulty": "kolay",
+    "topicTag": "TÜRKPATENT",
+    "prompt": "Patent, faydalı model, marka, tasarım ve coğrafi işaretlerin tescil ve korunmasından sorumlu resmi kurum hangisidir?",
+    "options": [
+      "Bilgi Teknolojileri ve İletişim Kurumu",
+      "Türk Patent ve Marka Kurumu (TÜRKPATENT)",
+      "Türk Standartları Enstitüsü",
+      "Ticaret Sicili Müdürlüğü",
+      "Rekabet Kurumu"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "SMK uyarınca patent, faydalı model, marka, tasarım ve coğrafi işaretlerin tescil ve korunmasından Türk Patent ve Marka Kurumu (TÜRKPATENT) sorumludur.",
+    "lawReference": "6769 s.K. (SMK) — TÜRKPATENT",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "abe53b90-a0da-406b-b297-e1404af54cc0",
+    "subject": "fikri_sinai_haklar",
+    "difficulty": "orta",
+    "topicTag": "Coğrafi İşaret",
+    "prompt": "SMK'ya göre belirgin bir niteliği, ünü veya diğer özellikleri itibarıyla kökenin bulunduğu yöre, alan, bölge veya ülke ile özdeşleşmiş bir ürünü gösteren işarete ne ad verilir?",
+    "options": [
+      "Faydalı model",
+      "Ticaret unvanı",
+      "Coğrafi işaret",
+      "Patent",
+      "Marka"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "SMK m.33 uyarınca coğrafi işaret, belirgin bir niteliği, ünü veya diğer özellikleri bakımından kökenin bulunduğu yöre, alan, bölge veya ülke ile özdeşleşmiş bir ürünü gösteren işarettir (menşe adı ve mahreç işareti olmak üzere ikiye ayrılır).",
+    "lawReference": "6769 s.K. (SMK) m. 33",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "01045d48-bafc-4c0f-9f8e-7c13c944a6b7",
+    "subject": "genel_kamu_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Egemenlik Kavramı",
+    "prompt": "Genel kamu hukuku öğretisinde, bir devletin ülkesi ve halkı üzerindeki en üstün, bölünmez ve devredilemez otoritesini ifade eden kavram aşağıdakilerden hangisidir?",
+    "options": [
+      "Meşruiyet",
+      "Hukuki güvenlik",
+      "Kuvvetler ayrılığı",
+      "Egemenlik",
+      "Hukuk devleti"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Egemenlik (hâkimiyet), devletin ülkesi ve halkı üzerindeki en üstün, aslî, bölünmez ve devredilemez irade/otorite yetkisini ifade eder; devletin kurucu unsurlarından biridir.",
+    "lawReference": "Genel Kamu Hukuku - Devlet Teorisi",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "8ac52583-95d9-4e72-b93d-d3494f587a94",
+    "subject": "genel_kamu_hukuku",
+    "difficulty": "kolay",
+    "topicTag": "Kuvvetler Ayrılığı",
+    "prompt": "Yasama, yürütme ve yargı yetkilerinin farklı organlara verilerek birbirini denetlemesini öngören anayasa hukuku ilkesine ne ad verilir?",
+    "options": [
+      "Federalizm ilkesi",
+      "Kuvvetler birliği ilkesi",
+      "Meşruiyet ilkesi",
+      "Kuvvetler ayrılığı ilkesi",
+      "Merkeziyetçilik ilkesi"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Kuvvetler ayrılığı ilkesi, devlet erklerinin (yasama, yürütme, yargı) farklı organlara verilerek birbirini denetlemesini ve gücün tek elde toplanmasının önlenmesini amaçlayan temel anayasa hukuku ilkesidir.",
+    "lawReference": "Genel Kamu Hukuku - Anayasa Teorisi",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "c96e0101-88c9-4e58-ae87-b9e96abd50d3",
+    "subject": "genel_kamu_hukuku",
+    "difficulty": "kolay",
+    "topicTag": "Kamu Hukuku - Özel Hukuk Ayrımı",
+    "prompt": "Kamu hukuku ile özel hukuk arasındaki ayrımda temel ölçütlerden biri olarak genellikle hangi husus gösterilir?",
+    "options": [
+      "Özel hukukun sadece ticari ilişkileri düzenlemesi",
+      "Kamu hukukunun tamamen ahlaki kurallardan oluşması",
+      "Kamu hukukunun her zaman yazılı olmaması",
+      "Kamu hukukunda taraflardan birinin kamu gücü kullanan bir kamu tüzel kişisi olması ve üstünlük-eşitsizlik ilişkisinin bulunması",
+      "Aralarında hiçbir fark bulunmaması"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Kamu hukuku, kamu gücünü kullanan bir tarafın (devlet/idare) bulunduğu ve tarafların eşit olmadığı ilişkileri düzenlerken; özel hukuk, eşit konumdaki kişiler arasındaki ilişkileri irade özerkliği ilkesiyle düzenler.",
+    "lawReference": "Genel kamu hukuku — kamu hukuku/özel hukuk ayrımı",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "0a4db1df-c816-4140-a1a1-23cd20da7fd2",
+    "subject": "hukuk_felsefesi_sosyolojisi",
+    "difficulty": "orta",
+    "topicTag": "Amerikan Hukuki Realizmi",
+    "prompt": "Amerikan Hukuki Realizmi, hukuku esas olarak neyle özdeşleştirir?",
+    "options": [
+      "Uluslararası antlaşmalarla",
+      "Yazılı kanun metinleriyle birebir",
+      "Yargıçların fiilen verdiği kararlarla (mahkemelerin ne yapacağının tahmini)",
+      "Örf ve adetle",
+      "Doğal hukuk ilkeleriyle"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Amerikan Hukuki Realizmi (Oliver Wendell Holmes, Karl Llewellyn gibi düşünürler), hukuku soyut kurallardan çok, mahkemelerin somut olaylarda fiilen ne karar vereceğinin tahmini olarak ele alır.",
+    "lawReference": "Hukuk felsefesi — Amerikan Hukuki Realizmi",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "36f20575-d5b2-447b-b2a0-f0f3c30a1e89",
+    "subject": "hukuk_felsefesi_sosyolojisi",
+    "difficulty": "orta",
+    "topicTag": "Ehrlich ve Yaşayan Hukuk",
+    "prompt": "Hukuku toplumsal bir olgu olarak inceleyen, 'yaşayan hukuk' (living law) kavramını geliştiren hukuk sosyolojisi öncüsü kimdir?",
+    "options": [
+      "Hans Kelsen",
+      "Eugen Ehrlich",
+      "Montesquieu",
+      "John Austin",
+      "Cesare Beccaria"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Eugen Ehrlich, hukuk sosyolojisinin kurucularından kabul edilir; resmi (kanuni) hukuk ile toplumda fiilen uygulanan 'yaşayan hukuk' (das lebende Recht) arasındaki ayrımı vurgulamıştır.",
+    "lawReference": "Hukuk sosyolojisi — Eugen Ehrlich",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "73c8fd0d-8fc2-484e-bfc4-beba313f9655",
+    "subject": "hukuk_felsefesi_sosyolojisi",
+    "difficulty": "zor",
+    "topicTag": "Radbruch Formülü",
+    "prompt": "Gustav Radbruch'un II. Dünya Savaşı sonrası geliştirdiği ve 'aşırı derecede adaletsiz olan pozitif hukukun hukuk sayılmaması gerektiğini' öne süren görüş hangi adla anılır?",
+    "options": [
+      "Hart-Fuller Tartışması",
+      "Savigny Volksgeist Kuramı",
+      "Dworkin İlkeler Teorisi",
+      "Kelsen Normlar Hiyerarşisi",
+      "Radbruch Formülü"
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "Radbruch Formülü, savaş sonrası Radbruch'un pozitivizmden doğal hukuka yakınlaşarak geliştirdiği görüştür: pozitif hukuk ile adalet arasındaki çelişki dayanılmaz ölçüde ise, o kural hukuki niteliğini kaybeder ve 'hukuksuz hukuk' sayılır.",
+    "lawReference": "Hukuk felsefesi — Gustav Radbruch",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "25cd4904-bdc5-4e07-aebe-87275c8b67e9",
+    "subject": "icra_iflas_hukuku",
+    "difficulty": "kolay",
+    "topicTag": "Takip Yolları",
+    "prompt": "İİK'ya göre ilamsız icra takibinde borçlunun ödeme emrine itiraz süresi kaç gündür?",
+    "options": [
+      "7 gün",
+      "5 gün",
+      "10 gün",
+      "3 gün",
+      "15 gün"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "İİK m.62: Borçlu, ödeme emrinin tebliğinden itibaren yedi gün içinde icra dairesine itiraz edebilir.",
+    "lawReference": "İİK m. 62",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "subject": "icra_iflas_hukuku",
+    "difficulty": "zor",
+    "topicTag": "İhalenin Feshi",
+    "prompt": "İcra ve İflas Kanunu'na göre ihalenin feshi, ihale tarihinden itibaren kural olarak hangi süre içinde ve hangi merciden istenebilir?",
+    "options": [
+      "7 gün içinde icra mahkemesinden",
+      "1 yıl içinde icra mahkemesinden",
+      "15 gün içinde icra dairesinden",
+      "10 gün içinde ağır ceza mahkemesinden",
+      "30 gün içinde asliye hukuk mahkemesinden"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "İİK m.134 uyarınca ihalenin feshi, ihale tarihinden itibaren yedi gün içinde icra mahkemesinden şikâyet yoluyla istenir. Doğru cevap budur. On beş gün ve icra dairesi seçeneği hem süreyi hem mercii yanlış verir; icra dairesi ihaleyi yapan mercidir, denetleyen değil. Asliye hukuk mahkemesi ve ağır ceza mahkemesi seçenekleri görev bakımından yanlıştır; icra işlemlerinin denetimi icra mahkemesine aittir. Bir yıllık süre de kanunda öngörülmemiştir. Ayrım ipucu: talep reddedilir ve kötü niyetle yapıldığı anlaşılırsa mahkeme para cezasına hükmeder; bu, satışı geciktirmek için yapılan başvuruları caydırmayı amaçlar. [Dayanak metin: 2004 s.K., 16.08.2026 tarihli sürüm]",
+    "lawReference": "İİK m. 134",
+    "id": "8a353018-7add-4903-adb2-e1a03badeb1d",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "b0c2a22d-82c8-4442-bdd5-a78f91882d83",
+    "subject": "icra_iflas_hukuku",
+    "difficulty": "kolay",
+    "topicTag": "Konkordato",
+    "prompt": "Konkordato kurumunun temel amacı nedir?",
+    "options": [
+      "Mali durumu bozulan borçluya, alacaklılarının belirli çoğunlukla onayıyla borçlarını yeniden yapılandırma imkânı sağlamak",
+      "Alacaklıya doğrudan haciz yetkisi vermek",
+      "Borçluyu tamamen borçlarından kurtarmak, alacaklıların rızası aranmaz",
+      "Borçlunun cezai sorumluluğunu kaldırmak",
+      "Yalnızca iflas etmiş şirketleri tasfiye etmek"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "İİK m.285/1: 'Borçlarını, vadesi geldiği hâlde ödeyemeyen veya vadesinde ödeyememe tehlikesi altında bulunan herhangi bir borçlu, vade verilmek veya tenzilat yapılmak suretiyle borçlarını ödeyebilmek veya muhtemel bir iflâstan kurtulmak için konkordato talep edebilir.' Kurumun özü budur: alacaklı çoğunluğunun onayı ve mahkeme tasdikiyle borcun yeniden yapılandırılması. Alacaklıların rızası aranmadan borçtan kurtulma seçeneği kurumun temelini yok sayar; konkordato bir müzakere düzenidir. Alacaklıya doğrudan haciz yetkisi vermek, cezai sorumluluğu kaldırmak ve yalnızca iflas etmiş şirketleri tasfiye etmek maddeyle ilgisizdir. Ayrım ipucu: konkordato borçluyu tasfiyeden korur, tasfiye etmez. [Dayanak metin: 2004 s.K., 16.08.2026 tarihli sürüm]",
+    "lawReference": "İİK m. 285",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "46dac46f-73b8-4c8c-8c1d-436a3daf528f",
+    "subject": "idare_hukuku",
+    "difficulty": "orta",
+    "topicTag": "İdari İşlemin Geri Alınması",
+    "prompt": "İdare hukukunda idari işlemin 'geri alınması' ile 'kaldırılması' arasındaki temel fark aşağıdakilerden hangisidir?",
+    "options": [
+      "Aralarında hiçbir fark yoktur.",
+      "Geri almayı yalnızca mahkeme, kaldırmayı yalnızca idare yapabilir.",
+      "Her ikisi de yalnızca Danıştay kararıyla mümkündür.",
+      "Kaldırma geçmişe etkilidir, geri alma ileriye etkilidir.",
+      "Geri alma, işlemi yapıldığı tarihten itibaren (geçmişe etkili olarak) hükümsüz kılar; kaldırma ise işlemi ileriye yönelik olarak sona erdirir."
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "İdare hukuku öğretisinde ve yargı içtihatlarında geri alma, hukuka aykırı bir idari işlemin idare tarafından yapıldığı tarihten itibaren (geçmişe etkili olarak) hükümden düşürülmesidir; kaldırma (ilga) ise işlemin ileriye yönelik olarak yürürlükten kaldırılmasıdır. Geri alma kural olarak hukuka aykırı işlemler için ve dava açma süresiyle bağlantılı makul süre içinde mümkündür; kişiler bakımından kazanılmış hakların korunması ilkesi gözetilir.",
+    "lawReference": "İdare Hukuku - İdari İşlemlerin Sona Ermesi",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "b41b2f6c-a846-4947-84af-fae5ed2d4db2",
+    "subject": "idare_hukuku",
+    "difficulty": "zor",
+    "topicTag": "Amaç (Maksat) Unsurunda Sakatlık",
+    "prompt": "İdarenin, kanunun kendisine tanıdığı yetkiyi kamu yararı dışında bir amaçla kullanması hâli, idare hukukunda hangi kavramla ifade edilir?",
+    "options": [
+      "Sebep sakatlığı",
+      "Şekil sakatlığı",
+      "Konu sakatlığı",
+      "Yetki gaspı",
+      "Yetki saptırması (détournement de pouvoir)"
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "İYUK m.2/1-a idari işlemi 'maksat' yönünden de denetime açar. İdarenin, kanunun kendisine kamu yararı için tanıdığı yetkiyi başka bir amaçla (kişisel husumet, siyasi saik ya da farklı bir kamusal amaç) kullanması maksat unsurundaki sakatlıktır ve yetki saptırması (détournement de pouvoir) olarak adlandırılır; doğru cevap E'dir. Yetki gaspı (D) ise idare adına hiçbir yetkisi bulunmayan kişinin işlem yapmasıdır ve sonucu yokluktur. Sebep (A), şekil (B) ve konu (C) sakatlıkları işlemin dayanağına, usulüne ve doğurduğu sonuca ilişkindir, amacına değil. Ayrım ipucu: saptırmada yetki vardır ama amaç kaymıştır. [Dayanak metin: 2577 s.K., 17.08.2026 tarihli sürüm]",
+    "lawReference": "İYUK m. 2 kapsamında doktrin",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "ce253efd-6d4d-42e6-af05-d1a1fa5ba9dd",
+    "subject": "idare_hukuku",
+    "difficulty": "orta",
+    "topicTag": "İdarenin Bütünlüğü İlkesi",
+    "prompt": "İdarenin bütünlüğü ilkesini sağlayan iki temel hukuki araç aşağıdakilerden hangisinde birlikte ve doğru verilmiştir?",
+    "options": [
+      "Merkeziyetçilik - federalizm",
+      "Kuvvetler ayrılığı - laiklik",
+      "Hiyerarşi - idari vesayet",
+      "Kanunilik - eşitlik",
+      "Yetki genişliği - özerklik"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Anayasa m.123/1 idarenin kuruluş ve görevleriyle bir bütün olduğunu, m.123/2 bu bütünlüğün merkezden yönetim ve yerinden yönetim esaslarına dayandığını söyler. Bütünlüğü fiilen sağlayan iki hukuki araç, merkezî teşkilat içinde hiyerarşi ve yerinden yönetim kuruluşları üzerinde idari vesayettir; doğru cevap C'dir. Vesayet, mahalli idareler bakımından m.127/5'te açıkça düzenlenmiş ve kanuna bağlanmıştır. Federalizm (A) üniter yapıyla bağdaşmaz; kuvvetler ayrılığı ve laiklik (B) ile kanunilik ve eşitlik (D) bu ilkeye özgü araçlar değildir; yetki genişliği ve özerklik (E) bütünleştiren değil dağıtan tekniklerdir. Ayrım ipucu: hiyerarşi içeride, vesayet dışarıda işler. [Dayanak metin: 2709 s.K., 17.08.2026 tarihli sürüm]",
+    "lawReference": "Anayasa m. 123, m. 127",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "21fcc6c2-3e79-4b5a-a5e9-83e97932fa78",
+    "subject": "idari_yargilama_usulu",
+    "difficulty": "zor",
+    "topicTag": "Danıştayda Temyiz",
+    "prompt": "İYUK m.46 uyarınca bölge idare mahkemesinin düzenleyici işlemlere karşı açılan iptal davası hakkında verdiği karar, hangi mercie ve hangi süre içinde temyiz edilebilir?",
+    "options": [
+      "Bölge adliye mahkemesine, kararın tebliğinden itibaren on beş gün içinde",
+      "Danıştaya, kararın tebliğinden itibaren otuz gün içinde",
+      "Anayasa Mahkemesine, kararın kesinleşmesinden itibaren otuz gün içinde",
+      "En yakın bölge idare mahkemesine, kararın tebliğinden itibaren yedi gün içinde",
+      "Yargıtaya, kararın tebliğinden itibaren iki hafta içinde"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "İYUK m.46/1: Danıştay dava dairelerinin nihai kararları ile bölge idare mahkemelerinin maddede sayılan davalar hakkında verdikleri kararlar, başka kanunlarda aksine hüküm bulunsa dahi Danıştayda, kararın tebliğinden itibaren otuz gün içinde temyiz edilebilir; (a) bendi düzenleyici işlemlere karşı açılan iptal davalarını bu kapsama alır. Doğru cevap B'dir. Bölge adliye mahkemesi (A) ve Yargıtay (E) adli yargı mercileridir; Anayasa Mahkemesi (C) temyiz mercii değildir; en yakın bölge idare mahkemesi (D) m.27/7'deki yürütmenin durdurulması itirazına ilişkin bir mercidir, temyize ilişkin değil. Ayrım ipucu: istinaf bölge idare mahkemesine, temyiz Danıştaya gider; süre her ikisinde de otuz gündür. [Dayanak metin: 2577 s.K., 17.08.2026 tarihli sürüm]",
+    "lawReference": "İYUK m. 46",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "7a4911df-f903-4e4a-b4d7-8f1b12d74bbc",
+    "subject": "idari_yargilama_usulu",
+    "difficulty": "orta",
+    "topicTag": "İdari Makamlara Başvuru ve Zımni Ret",
+    "prompt": "İYUK m.10 uyarınca ilgililerin, haklarında idari davaya konu olabilecek bir işlem veya eylemin yapılması için idari makamlara yaptıkları başvuruya kaç gün içinde cevap verilmezse istek reddedilmiş sayılır?",
+    "options": [
+      "Altmış gün",
+      "Otuz gün",
+      "On beş gün",
+      "Doksan gün",
+      "Yedi gün"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "İYUK m.10/1 ilgililerin, haklarında idari davaya konu olabilecek bir işlem veya eylemin yapılması için idari makamlara başvurabileceğini; m.10/2 ise otuz gün içinde cevap verilmezse isteğin reddedilmiş sayılacağını söyler. Doğru cevap B'dir. Bu zımni ret üzerine ilgililer, otuz günün bittiği tarihten itibaren dava açma süresi içinde konusuna göre Danıştaya, idare veya vergi mahkemesine dava açabilir. Otuz gün içinde verilen cevap kesin değilse ilgili bunu ret sayıp dava açabileceği gibi kesin cevabı da bekleyebilir; bu takdirde dava açma süresi işlemez, ancak bekleme başvuru tarihinden itibaren dört ayı geçemez. Ayrım ipucu: m.10 yeni işlem istemidir, m.11 ise mevcut işleme yöneliktir. [Dayanak metin: 2577 s.K., 17.08.2026 tarihli sürüm]",
+    "lawReference": "İYUK m. 10",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "aa574c42-2c28-43da-af2d-baf530d36693",
+    "subject": "idari_yargilama_usulu",
+    "difficulty": "orta",
+    "topicTag": "Kararların Uygulanması",
+    "prompt": "İYUK m.28 uyarınca idare, mahkemelerin esasa ve yürütmenin durdurulmasına ilişkin kararlarının gereğini en geç ne kadar süre içinde yerine getirmek zorundadır?",
+    "options": [
+      "Kararın kesinleşmesinden başlayarak altmış gün içinde",
+      "Kararın idareye tebliğinden başlayarak otuz günü geçmemek üzere, gecikmeksizin",
+      "Kararın Resmî Gazetede yayımlanmasından itibaren altı ay içinde",
+      "İdarenin bütçe imkânları elverdiği ölçüde, herhangi bir azami süreye bağlı olmaksızın ve tamamen idarenin takdirine göre",
+      "Kararın tebliğinden itibaren yedi gün içinde"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "İYUK m.28/1: Danıştay, bölge idare mahkemeleri, idare ve vergi mahkemelerinin esasa ve yürütmenin durdurulmasına ilişkin kararlarının icaplarına göre idare gecikmeksizin işlem tesis etmeye veya eylemde bulunmaya mecburdur; bu süre hiçbir şekilde kararın idareye tebliğinden başlayarak otuz günü geçemez. Doğru cevap B'dir. Süre kesinleşmeye değil tebliğe bağlıdır (A); Resmî Gazetede yayım (C) bir başlangıç ölçütü değildir; uygulamanın bütçe imkânlarına bırakılması (D) Anayasa m.138/son'daki 'yargı kararlarını gecikmeksizin yerine getirme' yükümlülüğüne aykırıdır; yedi gün (E) kanunda geçmez. Ayrım ipucu: yürütmenin durdurulması kararı da esas karar gibi uygulanmak zorundadır. [Dayanak metin: 2577 s.K., 17.08.2026 tarihli sürüm]",
+    "lawReference": "İYUK m. 28",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "5aa32a0a-b1b2-4496-bcf8-481efa96a7df",
+    "subject": "insan_haklari_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Türkiye'nin AİHS'e Taraflığı",
+    "prompt": "Türkiye, Avrupa İnsan Hakları Mahkemesi'nin zorunlu yargı yetkisini hangi yılda tanımıştır?",
+    "options": [
+      "1999",
+      "1963",
+      "1990",
+      "1982",
+      "1954"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Türkiye, AİHS'i 1954'te onaylamış, bireysel başvuru hakkını 1987'de, AİHM'nin zorunlu yargı yetkisini ise 1990 yılında tanımıştır.",
+    "lawReference": "İnsan hakları hukuku — Türkiye'nin AİHS'e taraflığı",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "69345b4b-ad2e-4c43-8647-8b5ffbff9841",
+    "subject": "insan_haklari_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Ayrımcılık Yasağı",
+    "prompt": "AİHS'in hangi maddesi, sözleşmede tanınan hak ve özgürlüklerden yararlanmada ayrımcılık yapılmasını yasaklar?",
+    "options": [
+      "m. 8",
+      "m. 15",
+      "m. 6",
+      "m. 14",
+      "m. 2"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "AİHS m.14, sözleşmede tanınan hak ve özgürlüklerden yararlanmanın cinsiyet, ırk, renk, dil, din, siyasi görüş, ulusal veya sosyal köken gibi hiçbir ayrım gözetilmeksizin sağlanmasını öngörür; bu madde bağımsız değil, diğer haklarla bağlantılı (aksesuar nitelikte) uygulanır.",
+    "lawReference": "AİHS m. 14",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "feaa7a33-b6d1-4afb-a1b0-aee3f805eea5",
+    "subject": "insan_haklari_hukuku",
+    "difficulty": "orta",
+    "topicTag": "AİHM'e Başvuru Süresi",
+    "prompt": "Avrupa İnsan Hakları Mahkemesi'ne bireysel başvuru, iç hukuk yollarının tüketilmesinden sonra verilen nihai karardan itibaren hangi süre içinde yapılmalıdır?",
+    "options": [
+      "Nihai karardan itibaren altı ay içinde",
+      "Nihai karardan itibaren bir yıl içinde",
+      "Nihai karardan itibaren dört ay içinde",
+      "Nihai karardan itibaren otuz gün içinde",
+      "Süre sınırı yoktur"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "AİHS m.35 uyarınca (15 No.lu Protokol ile yapılan ve 1 Şubat 2022'de yürürlüğe giren değişiklik sonrası) Mahkeme, iç hukuk yollarının tüketilmesinden sonra verilen nihai karar tarihinden itibaren dört aylık süre içinde yapılan başvuruları ele alabilir. Bu süre daha önce altı ay idi; 15 No.lu Protokolle dört aya indirilmiştir.",
+    "lawReference": "AİHS m. 35 (15 No.lu Protokol)",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "subject": "is_hukuku",
+    "difficulty": "kolay",
+    "topicTag": "Haftalık Çalışma Süresi",
+    "prompt": "4857 sayılı İş Kanunu'na göre genel bakımdan haftalık çalışma süresi en çok kaç saattir?",
+    "options": [
+      "42 saat",
+      "40 saat",
+      "50 saat",
+      "45 saat",
+      "48 saat"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "İş K. m.63: 'Genel bakımdan çalışma süresi haftada en çok kırkbeş saattir. Aksi kararlaştırılmamışsa bu süre, işyerlerinde haftanın çalışılan günlerine eşit ölçüde bölünerek uygulanır.' Doğru cevap kırk beş saattir. Kırk, kırk iki, kırk sekiz ve elli saatin genel kural olarak maddede karşılığı yoktur. Bu sınırın önemi fazla çalışmanın ölçüsünü belirlemesidir: m.41 uyarınca fazla çalışma, haftalık kırk beş saati aşan çalışmadır. Maddeye eklenen özel hükme göre yer altı maden işlerinde çalışma süresi günde en çok yedi buçuk, haftada en çok otuz yedi buçuk saattir. Ayrım ipucu: tarafların anlaşmasıyla denkleştirme uygulanabilir; bu hâlde bazı haftalar kırk beş saati aşsa da ortalama aşılmadıkça fazla çalışma sayılmaz.",
+    "lawReference": "İş K. m. 63",
+    "id": "0322db70-cace-4dfe-87d5-f2d61291a2d8",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "47027a55-fe36-4a0a-a387-e206fec50c5a",
+    "subject": "is_hukuku",
+    "difficulty": "orta",
+    "topicTag": "İşçinin Haklı Nedenle Feshi",
+    "prompt": "İş Kanunu m. 24'e göre işçinin sözleşmeyi haklı nedenle derhal feshedebileceği hâller arasında aşağıdakilerden hangisi SAYILMAZ?",
+    "options": [
+      "Ahlak ve iyiniyet kurallarına uymayan haller",
+      "İşyerinde işin durması",
+      "İşverenin ücreti kanun hükümleri uyarınca hesap etmemesi",
+      "Sağlık sebepleri",
+      "İşçinin sadece ücret zammı talebinin reddedilmesi"
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "İş K. m.24, işçinin haklı nedenle derhal fesih hâllerini üç başlıkta sayar: sağlık sebepleri, ahlak ve iyiniyet kurallarına uymayan hâller ve işçinin çalıştığı işyerinde bir haftadan fazla süreyle işin durmasını gerektirecek zorlayıcı sebepler. Ücretin kanun hükümleri veya sözleşme şartlarına uygun hesap edilmemesi de ikinci başlıkta yer alır. Ücret zammı talebinin reddedilmesi bu sayımın hiçbir bendine girmez; doğru cevap odur. Zam istemek bir sözleşme görüşmesidir, işverenin reddetmesi tek başına haklı fesih sebebi değildir. Diğer dört seçenek maddede karşılığı bulunan gerçek hâllerdir. Ayrım ipucu: sayım sınırlıdır ve genişletilemez; m.26 uyarınca hak altı iş günü içinde kullanılmalıdır.",
+    "lawReference": "İş K. m. 24",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "95d68844-9710-4512-99d5-791883618200",
+    "subject": "is_hukuku",
+    "difficulty": "orta",
+    "topicTag": "İşverenin Haklı Nedenle Feshi",
+    "prompt": "İş Kanunu m. 25'e göre işverenin sözleşmeyi haklı nedenle ve bildirim süresi beklemeksizin feshedebileceği hâllerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "İşçinin izin kullanmak istemesi",
+      "İşçinin işyeri hekimine başvurması",
+      "İşçinin fazla mesai yapmayı reddetmesi (kanuni sınırlar içinde)",
+      "İşçinin ahlak ve iyiniyet kurallarına uymayan davranışlarda bulunması",
+      "İşçinin sendikaya üye olması"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "İş K. m.25, işverenin bildirim süresini beklemeksizin fesih hâllerini sağlık sebepleri, ahlak ve iyiniyet kurallarına uymayan hâller ve zorlayıcı sebepler başlıkları altında sayar. İşçinin ahlak ve iyiniyet kurallarına uymayan davranışları bu sayımda yer alır; doğru cevap budur. İzin kullanmak istemek, işyeri hekimine başvurmak ve kanuni sınırlar içinde fazla mesai yapmayı reddetmek işçinin kanundan doğan haklarını kullanmasıdır; hakkın kullanılması fesih sebebi olmaz. Sendikaya üye olmak ise anayasal bir haktır ve bu sebeple fesih sendikal nedene dayanan ayrı bir yaptırıma tabidir. Ayrım ipucu: m.41 uyarınca fazla çalışma için işçinin onayı gerekir; onay vermemek haklı fesih sebebi oluşturmaz.",
+    "lawReference": "İş K. m. 25",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "048055fe-4bf7-4be9-9b5b-e5e2764c9127",
+    "subject": "medeni_hukuk",
+    "difficulty": "kolay",
+    "topicTag": "Adın Değiştirilmesi",
+    "prompt": "Türk Medeni Kanunu'na göre bir kişinin adını değiştirebilmesi hangi koşula bağlıdır?",
+    "options": [
+      "Haklı sebeplere dayanarak hâkimden adın değiştirilmesini istemesi gerekir.",
+      "Ad hiçbir şekilde değiştirilemez.",
+      "Noterde düzenlenen bir beyanla ad değiştirilebilir.",
+      "Muhtarlıktan onay alması gerekir.",
+      "Nüfus müdürlüğüne dilekçe vermesi yeterlidir."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "TMK m.27: 'Adın değiştirilmesi, ancak haklı sebeplere dayanılarak hâkimden istenebilir.' İki unsur birlikte aranır: haklı sebep ve mahkeme kararı; doğru cevap budur. Nüfus müdürlüğüne dilekçe vermenin yeterli olduğu seçeneği en güçlü çeldiricidir; nüfus idaresi kararı sicile işler, ancak değişikliğe karar verme yetkisi yargısaldır. Noterde düzenlenen beyan ve muhtarlık onayı kanunda öngörülmemiştir. Adın hiçbir şekilde değiştirilemeyeceği seçeneği maddenin varlığına aykırıdır. Aynı madde sonucu da düzenler: karar nüfus siciline kaydedilir ve ilan olunur, ancak ad değişmekle kişisel durum değişmez. Ayrım ipucu: adın değiştirilmesinden zarar gören, öğrendiği günden başlayarak bir yıl içinde kararın kaldırılmasını dava edebilir.",
+    "lawReference": "TMK m. 27",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "19743fe1-b028-4202-86b7-ff3c039432c3",
+    "subject": "medeni_hukuk",
+    "difficulty": "kolay",
+    "topicTag": "Velayet",
+    "prompt": "TMK'ya göre evlilik devam ederken velayet kural olarak kimde/kimlerdedir?",
+    "options": [
+      "Ana ve babada birlikte",
+      "Yalnızca babada",
+      "Yalnızca anada",
+      "Vasilikte",
+      "Aile mahkemesi hakiminde"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "TMK m.336/1: 'Evlilik devam ettiği sürece ana ve baba velâyeti birlikte kullanırlar.' Evlilik ayakta olduğu sürece velayet eşlerden yalnızca birine ait olmaz; doğru cevap ana ve babada birlikte olmasıdır. Yalnızca baba ya da yalnızca ana seçenekleri yürürlükteki hukuka aykırıdır. Vasi atanması velayetin bulunmadığı hâllere özgüdür; velayet varken vasi atanmaz. Hâkim ise velayeti kendiliğinden üstlenmez; m.336/2-3 uyarınca ancak ortak hayata son verilmiş, ayrılık gerçekleşmiş, eşlerden biri ölmüş veya boşanma olmuşsa velayet tek tarafa geçer. Ayrım ipucu: soruda 'evlilik devam ederken' ibaresi varsa cevap birlikte kullanımdır; ayrılık veya boşanma anlatılıyorsa tek tarafa verilme gündeme gelir.",
+    "lawReference": "TMK m. 336",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "8351de62-948a-4b9a-920f-27799d7b5dd7",
+    "subject": "medeni_hukuk",
+    "difficulty": "orta",
+    "topicTag": "Vesayeti Gerektiren Haller",
+    "prompt": "Aşağıdakilerden hangisi TMK'ya göre bir kişi hakkında kısıtlama (vesayet) kararı verilmesini gerektiren hâllerden biri DEĞİLDİR?",
+    "options": [
+      "Sadece ileri yaşta olmak",
+      "Savurganlık, alkol veya uyuşturucu bağımlılığı",
+      "Kötü yönetim",
+      "Bir yıl veya daha uzun süreli özgürlüğü bağlayıcı cezaya mahkûmiyet",
+      "Akıl hastalığı veya akıl zayıflığı"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "TMK m. 405-408 kapsamında akıl hastalığı/zayıflığı, savurganlık ile alkol veya uyuşturucu bağımlılığı, kötü yönetim, bir yıl veya daha uzun süreli özgürlüğü bağlayıcı ceza gibi hâller kısıtlama sebebidir; sadece ileri yaşta olmak tek başına kısıtlama sebebi değildir.",
+    "lawReference": "TMK m. 405",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "20d728df-ca19-50e1-86d2-8eab1e2b26cd",
+    "subject": "medeni_usul_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Ek Cevap Süresi",
+    "prompt": "Cevap dilekçesinin iki haftalık süre içinde hazırlanmasının çok zor olduğu bir durumda mahkemeden ek süre istenmesi hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "İki defaya kadar, her biri iki haftayı geçmemek üzere ek süre verilebilir",
+      "Sınırsız sayıda ek süre verilebilir",
+      "Ek süre yalnızca karşı tarafın açık muvafakati ile verilebilir",
+      "Ek süre verilmesi hiçbir şekilde mümkün değildir",
+      "Bir defaya mahsus olmak ve bir ayı geçmemek üzere ek süre verilebilir"
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "HMK m. 127/1'in ikinci cümlesi ek süreyi iki yönden sınırlar: bir DEFAYA MAHSUS olacak ve BİR AYI GEÇMEYECEK. Çoğu adayın atladığı üçüncü sınır ise talebin zamanıdır: davalının bu talebi, iki haftalık asıl süre henüz dolmadan yapması gerekir. Süre geçtikten sonra yapılan ek süre talebi sonuç doğurmaz. Karşı tarafın muvafakati aranmaz; karar mahkemenindir ve verilen karar taraflara derhâl bildirilir. Ek sürenin verilebilmesi için ayrıca cevabın bu sürede hazırlanmasının 'çok zor yahut imkânsız' olması gerekir — bu bir gerekçe gösterme yükü demektir.",
+    "lawReference": "HMK m. 127",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "subject": "medeni_usul_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Ön İnceleme",
+    "prompt": "Hukuk Muhakemeleri Kanunu'na göre ön inceleme aşamasında mahkemenin yapacağı işler arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Uyuşmazlık konularını tam olarak belirlemek",
+      "Tanıkları dinleyerek esas hakkında hüküm kurmak",
+      "Dava şartlarını incelemek",
+      "Tarafları sulhe veya arabuluculuğa teşvik etmek",
+      "İlk itirazları incelemek"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "HMK m.137 uyarınca ön incelemede mahkeme; dava şartlarını ve ilk itirazları inceler, uyuşmazlık konularını belirler, hazırlık işlemleri ile delillerin sunulması ve toplanması için gereken işlemleri yapar, tarafları sulhe veya arabuluculuğa teşvik eder. Tanık dinleme ve esas hakkında hüküm kurma ise tahkikat ve hüküm aşamalarına aittir; ön inceleme tamamlanmadan tahkikata geçilemez.",
+    "lawReference": "HMK m. 137",
+    "id": "5eacafff-d72b-4a93-8149-db885053ddb8",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "subject": "medeni_usul_hukuku",
+    "difficulty": "kolay",
+    "topicTag": "Davanın Açılma Anı",
+    "prompt": "Hukuk Muhakemeleri Kanunu'na göre dava hangi anda açılmış sayılır?",
+    "options": [
+      "Dava dilekçesinin davalıya tebliğ edildiği tarihte",
+      "Dava dilekçesinin kaydedildiği tarihte",
+      "Ön inceleme duruşmasının yapıldığı tarihte",
+      "Harçların tamamlandığı tarihte",
+      "İlk duruşmanın yapıldığı tarihte"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "HMK m.118/1: 'Dava, dava dilekçesinin kaydedildiği tarihte açılmış sayılır.' Doğru cevap budur. Tebliğ tarihi seçeneği davanın açılmasını karşı tarafın öğrenmesine bağlar; oysa tebligat davanın açılmasından sonraki bir aşamadır ve gecikmesi davacının hakkını tehlikeye atmamalıdır. İlk duruşma ve ön inceleme duruşması tarihleri yargılamanın ilerleyen aşamalarıdır. Harçların tamamlanması seçeneği de yanlıştır: eksik harç davanın açılmış sayılmasını engellemez, tamamlanması için süre verilir. Bu anın belirlenmesi pratik olarak kritiktir, çünkü zamanaşımının kesilmesi ve hak düşürücü sürelerin korunması bu tarihe bağlanır. Ayrım ipucu: dilekçe kayda girdiği anda dava açılmıştır.",
+    "lawReference": "HMK m. 118",
+    "id": "6ec304e2-b0e2-4aa9-b6e0-1894cceef9fb",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "4497630f-180a-41ef-a97e-4df13e155306",
+    "subject": "meslek_hukuku_etik",
+    "difficulty": "orta",
+    "topicTag": "Baro Levhasına Yazılma",
+    "prompt": "Avukatlık mesleğini icra edebilmek için hangi işlem zorunludur?",
+    "options": [
+      "Ticaret siciline kayıt olmak",
+      "Sadece Adalet Bakanlığından izin almak",
+      "Bir baro levhasına yazılmak",
+      "Yalnızca hukuk fakültesi diploması yeterlidir",
+      "Noterlik ruhsatı almak"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Avukatlık Kanunu m.3-8 uyarınca avukatlık mesleğinin icrası için stajın tamamlanması ve bir baro levhasına yazılı olmak şarttır.",
+    "lawReference": "1136 s.K. m. 3-8",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "8d87e485-da62-4cae-8996-d1de122df3ba",
+    "subject": "meslek_hukuku_etik",
+    "difficulty": "orta",
+    "topicTag": "Meslek Sırrı",
+    "prompt": "Avukatlık Kanunu'na göre avukatın müvekkiliyle ilgili öğrendiği sırları saklama yükümlülüğü ne zaman sona erer?",
+    "options": [
+      "Vekalet ilişkisi sona erdiğinde biter",
+      "Müvekkil izin verirse her zaman açıklanabilir, süre sınırı yoktur ve koşulsuzdur",
+      "Sona ermez; bu yükümlülük süresiz devam eder",
+      "Dava sonuçlandığında kendiliğinden biter",
+      "Sadece dava sürerken geçerlidir"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Avukatlık K. m.36 ve TCK m.239 çerçevesinde avukatın sır saklama yükümlülüğü, vekalet ilişkisi sona erse dahi devam eden süresiz bir yükümlülüktür.",
+    "lawReference": "Avukatlık K. m. 36",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "b029aa18-0a89-45b8-ab32-4b421043236b",
+    "subject": "meslek_hukuku_etik",
+    "difficulty": "orta",
+    "topicTag": "Disiplin Cezaları",
+    "prompt": "Avukatlık Kanununa göre en ağır disiplin cezası hangisidir?",
+    "options": [
+      "Uyarma",
+      "Kınama",
+      "Meslekten çıkarma",
+      "İşten yasaklama (geçici)",
+      "Para cezası"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Avukatlık Kanunu m.135 uyarınca disiplin cezaları hafiften ağıra doğru uyarma, kınama, para cezası, işten yasaklama ve meslekten çıkarma şeklinde sıralanır; en ağır ceza meslekten çıkarmadır.",
+    "lawReference": "1136 s.K. m. 135",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "5674d658-326b-46a6-84bf-42556c60ea83",
+    "subject": "ticaret_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Anonim Şirkette Bağımsız Denetim",
+    "prompt": "TTK'ya göre bağımsız denetime tabi olan anonim şirketlerin denetimi kim tarafından ve neye göre yapılır?",
+    "options": [
+      "Şirketin kendi yönetim kurulunca, serbestçe",
+      "Ticaret sicili müdürlüğü tarafından",
+      "Denetim zorunlu değildir, isteğe bağlıdır",
+      "Sadece vergi dairesi tarafından",
+      "Denetçi tarafından, Türkiye Denetim Standartlarına göre"
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "TTK m.397/1: Denetime tabi olan anonim şirketlerin ve şirketler topluluğunun finansal tabloları denetçi tarafından, Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunca yayımlanan uluslararası denetim standartlarıyla uyumlu Türkiye Denetim Standartlarına göre denetlenir. Doğru cevap budur. Şirketin kendi yönetim kurulunca serbestçe denetleneceği seçeneği denetimin bağımsızlık amacına aykırıdır; denetleyen ile denetlenen aynı organ olamaz. Ayrım ipucu: hangi şirketlerin denetime tabi olacağı Cumhurbaşkanınca belirlenir; yani kapsam kanunla değil kararla çizilir. [Dayanak metin: 6102 s.K., 16.08.2026 tarihli sürüm]",
+    "lawReference": "TTK m. 397",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "8374ead5-2c33-484a-b39c-495f54e3a564",
+    "subject": "ticaret_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Ticari İşletmenin Devri",
+    "prompt": "Türk Ticaret Kanunu'na göre ticari işletmenin devri bakımından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Ticari işletme, içerdiği her bir malvarlığı unsuru için ayrı ayrı tasarruf işlemi yapılmadıkça devredilemez.",
+      "Ticari işletme devri yalnızca sözlü anlaşmayla gerçekleşir.",
+      "Ticari işletme devri için mahkeme kararı zorunludur.",
+      "Ticari işletme, bir bütün hâlinde ve ayrı ayrı tasarruf işlemlerine gerek olmaksızın devredilebilir; devir sözleşmesi yazılı şekilde yapılır, ticaret siciline tescil ve ilan edilir.",
+      "Ticari işletme hiçbir şekilde devredilemez."
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "TTK m.11/3: Ticari işletme, içerdiği malvarlığı unsurlarının devri için zorunlu tasarruf işlemlerinin ayrı ayrı yapılmasına gerek olmaksızın bir bütün hâlinde devredilebilir; devir sözleşmesi yazılı şekilde yapılır, ticaret siciline tescil ve ilan edilir. Doğru cevap budur. Her unsur için ayrı tasarruf işlemi gerektiğini söyleyen seçenek maddenin getirdiği kolaylığı ortadan kaldırır; hüküm zaten bu külfeti kaldırmak için konulmuştur. İşletmenin hiç devredilemeyeceği seçeneği hükme tümüyle aykırıdır. Ayrım ipucu: devrin kapsamı işletmeye sürekli özgülenen unsurların bütünüdür, tek tek eşyalar değil. [Dayanak metin: 6102 s.K., 16.08.2026 tarihli sürüm]",
+    "lawReference": "TTK m. 11/3",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "dca95437-7428-4faf-8d8d-2b8efd4f24ba",
+    "subject": "ticaret_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Bono ile Poliçenin Farkı",
+    "prompt": "Bono ile poliçe arasındaki temel fark aşağıdakilerden hangisidir?",
+    "options": [
+      "Bono bir ödeme emri, poliçe bir ödeme vaadidir.",
+      "Bono kıymetli evrak değildir.",
+      "Bono yalnızca bankalar tarafından düzenlenebilir.",
+      "Bono, düzenleyenin bizzat ödeme vaadini içerir (iki taraflı ilişki); poliçe ise düzenleyenin muhataba yönelttiği bir ödeme emrini içerir (üçlü ilişki).",
+      "Poliçede vade bulunmaz."
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Bono (emre yazılı senet), düzenleyenin lehtara kayıtsız şartsız belirli bir bedeli ödeme vaadini içerir; düzenleyen ve lehtar olmak üzere iki kişilik bir ilişki vardır ve düzenleyen asıl borçludur (TTK m.776 vd.). Poliçede ise düzenleyen, muhataba lehtara ödeme yapması için kayıtsız şartsız bir ödeme emri verir; düzenleyen-muhatap-lehtar şeklinde üçlü bir ilişki söz konusudur (TTK m.671 vd.).",
+    "lawReference": "TTK m. 671, m. 776",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "870a3e02-27b3-4c2d-b13e-3fec1b93e577",
+    "subject": "turk_hukuk_tarihi",
+    "difficulty": "kolay",
+    "topicTag": "Tanzimat Fermanı",
+    "prompt": "Osmanlı Devleti'nde kanun önünde eşitlik, can ve mal güvenliği gibi ilkelerin ilan edildiği ve modernleşme sürecinin başlangıcı sayılan 1839 tarihli belge aşağıdakilerden hangisidir?",
+    "options": [
+      "Mecelle",
+      "Tanzimat Fermanı (Gülhane Hatt-ı Hümayunu)",
+      "Kanun-i Esasi",
+      "Islahat Fermanı",
+      "Sened-i İttifak"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "1839 tarihli Tanzimat Fermanı (Gülhane Hatt-ı Hümayunu), can, mal ve namus güvenliği ile kanun önünde eşitlik gibi ilkeleri ilan ederek Osmanlı Devleti'nde modernleşme ve hukuk reformları sürecini başlatan temel belgedir.",
+    "lawReference": "Türk Hukuk Tarihi - Tanzimat Dönemi",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "9ab4b95a-15d9-4d4f-a3dc-d6c1dafc50cc",
+    "subject": "turk_hukuk_tarihi",
+    "difficulty": "kolay",
+    "topicTag": "1924 Hukuk Devrimleri",
+    "prompt": "Türkiye'de şer'iyye mahkemelerinin kaldırılması ve yargı sisteminin laikleştirilmesi hangi döneme rastlar?",
+    "options": [
+      "Sevr Antlaşması sonrası",
+      "II. Meşrutiyet dönemi",
+      "Tanzimat dönemi",
+      "Osmanlı'nın kuruluş dönemi",
+      "1924 yılı ve sonrasındaki hukuk devrimleri"
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "3 Mart 1924'te kabul edilen kanunlarla şer'iyye mahkemeleri kaldırılmış, hukuk sisteminin laikleştirilmesi süreci hızlanmış; bu süreç 1926'da Medeni Kanun ve Borçlar Kanunu'nun kabulüyle büyük ölçüde tamamlanmıştır.",
+    "lawReference": "Türk hukuk tarihi — 1924 hukuk devrimleri",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "ee58c759-0222-433f-9f6c-09befef0f6aa",
+    "subject": "turk_hukuk_tarihi",
+    "difficulty": "kolay",
+    "topicTag": "İsviçre Medeni Kanunu'nun İktibası",
+    "prompt": "Türk Medeni Kanunu, 1926 yılında hangi ülkenin medeni kanunundan iktibas edilerek (uyarlanarak) kabul edilmiştir?",
+    "options": [
+      "İsviçre",
+      "Belçika",
+      "Almanya",
+      "Fransa",
+      "İtalya"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "1926 yılında kabul edilen (mülga) 743 sayılı Türk Kanunu Medenisi, İsviçre Medeni Kanunu'ndan (ZGB) iktibas edilerek Türk hukuk sistemine kazandırılmıştır.",
+    "lawReference": "Türk Hukuk Tarihi - Cumhuriyet Dönemi İnkılapları",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "34bb6189-fdbc-4844-b60f-93c7d18721f0",
+    "subject": "uluslararasi_kamu_hukuku",
+    "difficulty": "orta",
+    "topicTag": "BM Güvenlik Konseyi Daimi Üyeleri",
+    "prompt": "Birleşmiş Milletler Güvenlik Konseyinin daimi (veto yetkisine sahip) üyesi olmayan ülke hangisidir?",
+    "options": [
+      "Fransa",
+      "Almanya",
+      "Rusya Federasyonu",
+      "Amerika Birleşik Devletleri",
+      "Çin Halk Cumhuriyeti"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "BM Antlaşması m.23 uyarınca Güvenlik Konseyinin beş daimi üyesi ABD, Rusya Federasyonu, Çin, Fransa ve Birleşik Krallık'tır; bu beş devlet veto yetkisine sahiptir. Almanya daimi üye değildir.",
+    "lawReference": "BM Antlaşması m. 23",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "7eb573bf-72f3-4e57-986e-c131b77e0648",
+    "subject": "uluslararasi_kamu_hukuku",
+    "difficulty": "zor",
+    "topicTag": "Münhasır Ekonomik Bölge",
+    "prompt": "BM Deniz Hukuku Sözleşmesine göre kıyı devletinin doğal kaynaklar üzerinde egemen haklara sahip olduğu münhasır ekonomik bölgenin azami genişliği esas hatlardan itibaren ne kadardır?",
+    "options": [
+      "200 deniz mili",
+      "12 deniz mili",
+      "50 deniz mili",
+      "350 deniz mili",
+      "24 deniz mili"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "1982 BM Deniz Hukuku Sözleşmesi m.57 uyarınca münhasır ekonomik bölge, esas hatlardan itibaren 200 deniz milini aşamaz; kıyı devleti bu bölgede canlı ve cansız doğal kaynaklar üzerinde egemenlik haklarına sahiptir.",
+    "lawReference": "1982 BM Deniz Hukuku Sözleşmesi m. 57",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "dd57c274-491d-46a5-9b4f-aa53bb2abc79",
+    "subject": "uluslararasi_kamu_hukuku",
+    "difficulty": "kolay",
+    "topicTag": "Devletin Unsurları",
+    "prompt": "Uluslararası kamu hukukunda bir devletin klasik unsurları arasında aşağıdakilerden hangisi sayılmaz?",
+    "options": [
+      "Egemenlik (bağımsız siyasi otorite)",
+      "Bunların hepsi devletin unsurudur, üyelik hariç",
+      "Ülke (toprak)",
+      "Uluslararası örgüte üyelik",
+      "İnsan topluluğu (millet/halk)"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Klasik devlet unsurları ülke, insan topluluğu (millet) ve egemenliktir (siyasi otorite); bir uluslararası örgüte üye olmak devletliğin kurucu unsuru değildir.",
+    "lawReference": "Uluslararası hukuk doktrini",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "0cdbd376-c183-46e9-b806-530e3e38b218",
+    "subject": "uluslararasi_ozel_hukuk",
+    "difficulty": "zor",
+    "topicTag": "İş Sözleşmelerinde Asgari Koruma",
+    "prompt": "MÖHUK'a göre iş sözleşmelerinde taraflarca yapılan hukuk seçimi neyi engelleyemez?",
+    "options": [
+      "İşçinin izin kullanmasını",
+      "İşyerinin taşınmasını",
+      "İşverenin fesih hakkını",
+      "İşçinin sendikaya üye olmasını",
+      "İşçinin mutad işyeri hukukunun emredici hükümlerince sağlanan asgari korumanın ortadan kalkmasını"
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "MÖHUK m.27/1: iş sözleşmeleri, işçinin mutad işyeri hukukunun emredici hükümleri uyarınca sahip olacağı asgarî koruma saklı kalmak üzere, tarafların sözleşmeyle belirledikleri hukuka tâbidir. Yani hukuk seçimi geçerlidir ama işçiyi mutad işyeri hukukunun sağladığı asgari korumadan yoksun bırakamaz; doğru cevap E'dir. Kural, zayıf tarafın korunması düşüncesine dayanır. İzin kullanma (A), sendika üyeliği (D) ve fesih hakkı (C) tek tek sonuçlar olabilir ama sorunun ölçtüğü sınır kavramı değildir; işyerinin taşınması (B) bir hukuk seçimi konusu hiç değildir. Ayrım ipucu: seçim yoksa m.27/2 uyarınca mutad işyeri hukuku uygulanır. [Dayanak metin: 5718 s.K., 17.08.2026 tarihli sürüm]",
+    "lawReference": "5718 s.K. (MÖHUK) m. 27",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "32db6bd8-d130-4233-a5f1-fa566a61f104",
+    "subject": "uluslararasi_ozel_hukuk",
+    "difficulty": "orta",
+    "topicTag": "MÖHUK'un Kapsamı",
+    "prompt": "5718 sayılı MÖHUK, aşağıdaki konulardan hangisini kapsamına almaz?",
+    "options": [
+      "Yabancı mahkeme kararlarının tanınması ve tenfizi",
+      "Yabancı hakem kararlarının tenfizi (kanunda öngörülen ölçüde)",
+      "Devletler arasındaki diplomatik ilişkilerin kurulması",
+      "Yabancılık unsuru taşıyan özel hukuk ilişkilerinde uygulanacak hukuku belirleyen kurallar",
+      "Türk mahkemelerinin milletlerarası yetkisi"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "MÖHUK m.1/1 Kanunun kapsamını üç başlıkla çizer: yabancılık unsuru taşıyan özel hukuka ilişkin işlem ve ilişkilerde uygulanacak hukuk (D), Türk mahkemelerinin milletlerarası yetkisi (E) ve yabancı kararların tanınması ile tenfizi (A); yabancı hakem kararlarının tenfizi de m.60 vd.'da düzenlenir (B). Devletler arasındaki diplomatik ilişkilerin kurulması bir kamu hukuku konusudur ve MÖHUK'un dışında kalır; doğru cevap C'dir. m.1/2 uyarınca Türkiye'nin taraf olduğu milletlerarası sözleşme hükümleri saklıdır, yani sözleşme varsa MÖHUK'tan önce gelir. Ayrım ipucu: MÖHUK özel hukuk ilişkilerine bakar, devletlerarası siyasi ilişkilere değil. [Dayanak metin: 5718 s.K., 17.08.2026 tarihli sürüm]",
+    "lawReference": "MÖHUK m. 1",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "e3572a7c-cc80-4961-a8f3-c276d399b34d",
+    "subject": "uluslararasi_ozel_hukuk",
+    "difficulty": "zor",
+    "topicTag": "Evlilik Mallarında Uygulanacak Hukuk",
+    "prompt": "MÖHUK'a göre eşler evlilik malları hakkında hukuk seçimi yapmamışlarsa uygulanacak hukuk hangi sırayla belirlenir?",
+    "options": [
+      "Doğrudan Türk hukuku uygulanır; eşlerin vatandaşlığı ve mutad meskeni burada hiçbir rol oynamaz",
+      "Malların bulunduğu ülke hukuku, taşınır ve taşınmaz ayrımı yapılmaksızın bütün malvarlığı unsurları bakımından uygulanır",
+      "Evlenme anındaki müşterek millî hukuk, yoksa evlenme anındaki müşterek mutad mesken hukuku, o da yoksa Türk hukuku",
+      "Eşlerden mal rejimi davasını açan tarafın millî hukuku, o belirlenemezse davalının yerleşim yeri hukuku uygulanır",
+      "Evliliğin yapıldığı ülke hukuku uygulanır; eşlerin sonradan vatandaşlık değiştirmesi bu sonucu etkilemez"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "MÖHUK m.15/1: eşler evlilik malları hakkında evlenme anındaki mutad mesken veya millî hukuklarından birini açıkça seçebilirler; böyle bir seçim yoksa evlenme anındaki müşterek millî hukuk, bulunmaması hâlinde evlenme anındaki müşterek mutad mesken hukuku, o da yoksa Türk hukuku uygulanır. Bu üç basamağı doğru sırayla veren C doğru cevaptır. Doğrudan Türk hukuku (A) son basamağı ilk sıraya çeker; malların bulunduğu yer hukuku (B) yalnızca tasfiyede ve yalnızca taşınmazlar için geçerlidir (m.15/2); davacının millî hukuku (D) ve evlenme yeri hukuku (E) maddede yer almaz. Ayrım ipucu: bağlama anı evlenme anıdır, dava anı değil. [Dayanak metin: 5718 s.K., 17.08.2026 tarihli sürüm]",
+    "lawReference": "MÖHUK m. 15",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "5750b9c8-8c82-48d9-8bdd-e2ee0fc529e4",
+    "subject": "vergi_hukuku",
+    "difficulty": "kolay",
+    "topicTag": "Verginin Kanuniliği",
+    "prompt": "Anayasa'ya göre vergi, resim, harç ve benzeri mali yükümlülükler neyle konulur, değiştirilir veya kaldırılır?",
+    "options": [
+      "Yargı kararıyla",
+      "Kanunla",
+      "Belediye meclisi kararıyla her koşulda",
+      "Cumhurbaşkanlığı kararnamesiyle serbestçe",
+      "İdari genelgeyle"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Anayasa m.73: Vergi, resim, harç ve benzeri mali yükümlülükler kanunla konulur, değiştirilir veya kaldırılır.",
+    "lawReference": "Anayasa m. 73",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "7b4dac4e-2e2f-4373-bfcf-dc6cd6fcf919",
+    "subject": "vergi_hukuku",
+    "difficulty": "kolay",
+    "topicTag": "Beyan Esası",
+    "prompt": "Türk vergi sisteminde gelir ve kurumlar vergisinde matrahın tespitinde esas alınan temel yöntem hangisidir?",
+    "options": [
+      "Karineye dayalı tespit",
+      "İdarenin resen belirlemesi",
+      "Götürü usul",
+      "Beyan esası",
+      "Kura yöntemi"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Türk vergi sisteminde gelir ve kurumlar vergisi matrahının tespitinde kural olarak mükellefin kendi beyanına dayanan beyan esası uygulanır; idare bu beyanı vergi incelemesi yoluyla denetler.",
+    "lawReference": "193 s.K. (GVK); 5520 s.K. (KVK)",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "ba02784d-48e7-4bae-b375-33cd2bcaa867",
+    "subject": "vergi_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Kurumlar Vergisi Mükellefleri",
+    "prompt": "Aşağıdakilerden hangisi Kurumlar Vergisi Kanununa göre kurumlar vergisi mükellefi değildir?",
+    "options": [
+      "Adi ortaklıklar",
+      "Sermaye şirketleri",
+      "Kooperatifler",
+      "İktisadi kamu kuruluşları",
+      "İş ortaklıkları (talep etmeleri hâlinde)"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "KVK m.1 uyarınca sermaye şirketleri, kooperatifler, iktisadi kamu kuruluşları, dernek ve vakıflara ait iktisadi işletmeler ile iş ortaklıkları kurumlar vergisi mükellefidir. Adi ortaklıklar tüzel kişiliği olmadığından kurumlar vergisi mükellefi değildir; ortakları gelir/kurumlar vergisi mükellefi olarak ayrı ayrı vergilendirilir.",
+    "lawReference": "5520 s.K. (KVK) m. 1",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "34ca7c80-5ab8-475c-b208-386a35b00f18",
+    "subject": "vergi_usul_hukuku",
+    "difficulty": "zor",
+    "topicTag": "Vergi Kaçakçılığı Suçu",
+    "prompt": "Defter ve kayıtlarda hesap ve muhasebe hileleri yapmak, sahte belge düzenlemek veya kullanmak gibi fiillerle işlenen ve VUK'ta hapis cezasını gerektiren suça ne ad verilir?",
+    "options": [
+      "Bilgi verme yükümlülüğüne aykırılık",
+      "Vergi ziyaı kabahati",
+      "Usulsüzlük kabahati",
+      "Özel usulsüzlük kabahati",
+      "Kaçakçılık suçu"
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "VUK m.359 uyarınca defter ve kayıtlarda muhasebe hilesi yapmak, sahte veya muhteviyatı itibarıyla yanıltıcı belge düzenlemek veya kullanmak gibi fiiller kaçakçılık suçunu oluşturur ve hapis cezasıyla cezalandırılır.",
+    "lawReference": "213 s.K. (VUK) m. 359",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "85157372-2c1e-4bda-a60e-a976b9d95e31",
+    "subject": "vergi_usul_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Tebliğ",
+    "prompt": "VUK'a göre vergilendirmeyle ilgili olup hüküm ifade eden belgelerin ve yazıların mükellefe usulüne uygun olarak duyurulması işlemine ne ad verilir?",
+    "options": [
+      "Tahsil",
+      "İtiraz",
+      "Tahakkuk",
+      "Tarh",
+      "Tebliğ"
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "VUK m.21'e göre tebliğ, vergilendirmeyi ilgilendiren ve hüküm ifade eden hususların yetkili makamlarca mükellefe veya ceza sorumlusuna yazı ile bildirilmesidir.",
+    "lawReference": "VUK m. 21",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  },
+  {
+    "id": "bfc1749c-a72f-4104-b54e-5e610a34c476",
+    "subject": "vergi_usul_hukuku",
+    "difficulty": "orta",
+    "topicTag": "Ödeme Süresi",
+    "prompt": "Beyana dayanan vergilerde, kanunlarında ayrı bir ödeme süresi gösterilmeyen hâllerde ödeme genel olarak hangi zaman esas alınarak yapılır?",
+    "options": [
+      "Vergi mahkemesi kararından sonra",
+      "Vergi incelemesi tamamlanana kadar",
+      "Vergiyi doğuran olaydan bir yıl sonra",
+      "Sadece yılsonunda toplu olarak",
+      "Beyannamenin verildiği ayın son gününe kadar"
+    ],
+    "correctOptionIndex": 4,
+    "explanation": "VUK m.111 ve ilgili özel kanunlar uyarınca beyana dayanan vergilerde ödeme süresi, kural olarak beyannamenin verildiği ayın sonuna kadar (kanunlarındaki özel hükümler saklı kalmak kaydıyla) belirlenir.",
+    "lawReference": "213 s.K. (VUK) m. 111",
+    "isVerifiedPastExamQuestion": false,
+    "examYear": null
+  }
+]

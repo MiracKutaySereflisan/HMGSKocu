@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import Foundation
 
 /// HMGS'nin ders alanları. Ham değerler (`rawValue`) `seed_questions.json` içindeki

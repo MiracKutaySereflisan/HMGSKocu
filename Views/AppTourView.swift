@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import SwiftUI
 
 /// Kısa, kaydırmalı uygulama turu — ilk açılışta bir kez otomatik gösterilir,

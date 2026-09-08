@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import Foundation
 
 /// Kullanıcının Profil'den seçtiği görünüm tercihi. UserDefaults'ta

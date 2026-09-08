@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import Foundation
 
 /// Açılış ekranında gösterilen hukuk/adalet temalı özlü sözler.
@@ -7,7 +8,7 @@ import Foundation
 /// olabilir; bu yüzden hiçbiri birebir alıntı iddiasıyla, tırnak içinde bir kişiye
 /// özel telifli metin olarak sunulmuyor. Telif korumalı bir esere ait metin
 /// (şarkı sözü, kitap pasajı, yaşayan bir yazarın özgün cümlesi) bu listeye
-/// EKLENMEZ — bkz. Docs/LICENSES.md.
+/// EKLENMEZ.
 struct LawQuote: Identifiable, Hashable, Sendable {
     let id: Int
     let text: String

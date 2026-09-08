@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import SwiftUI
 
 /// Açılışta kısa süre görünen, logo + rastgele bir hukuk özdeyişi gösteren ekran.

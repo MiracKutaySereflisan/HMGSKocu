@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import SwiftUI
 
 /// Sınav bitince "Soruları İncele" ile açılan ekran. Hatadan öğrenme adımı burası:

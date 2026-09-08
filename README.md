@@ -23,9 +23,6 @@ değildir ve öyle olduğu iddia edilmez (bir test bunu ayrıca doğrular). Her 
 dayandığı kanun maddesi kayıtlıdır ve açıklamasının o maddeye değinmesi test
 kapısından geçmenin şartıdır.
 
-Üretim yöntemi ve kaynak kaydı:
-`Docs/SORU_URETIM_PROTOKOLU.md` · `Docs/SORU_KAYNAK_KAYDI.md`
-
 > **Bu depoda örnek havuz vardır.** Yayımlanan sürüm 24 dersin her birinden 3 soru
 > içerir (72 soru). Uygulamanın tamamı bu havuzla derlenir ve çalışır. Tam havuzu
 > gerektiren testler (120 soruluk deneme, Yolculuk aşama üretimi ve ders başına alt
@@ -42,7 +39,6 @@ kapısından geçmenin şartıdır.
 | `Resources/` | Soru havuzu, varlıklar, gizlilik bildirimi |
 | `Tools/` | `soru_denetim.py` — yeni soru partilerini standarda karşı denetleyen kapı |
 | `HMGSKocuTests/` | Motor, içerik kalitesi ve kurtarmalı okuma testleri |
-| `Docs/` | Proje özeti, kararlar, lisans envanteri, gizlilik metni, üretim protokolü |
 
 ## Çalıştırma
 
@@ -66,4 +62,3 @@ bu testler engelliyor.
 ## Telif
 
 Tüm hakları saklıdır. Kod incelenmek üzere paylaşılmıştır.
-Üçüncü taraf içerik envanteri: `Docs/LICENSES.md`.

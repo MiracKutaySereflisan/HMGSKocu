@@ -1,8 +1,9 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import SwiftUI
 
 /// Yolculuk maskotu "Kukuk" (hukuk kelime oyunu). Kodla çizilmiş — illüstrasyon
 /// ya da Lottie dosyası gerektirmiyor, dolayısıyla lisans sorunu da yok
-/// (bkz. Docs/LICENSES.md). İleride gerçek bir illüstrasyonla değiştirmek için
+///. İleride gerçek bir illüstrasyonla değiştirmek için
 /// yalnızca bu görünümün gövdesi değişir; çağıran yerler `mood` ve `size` verir.
 struct MascotView: View {
     enum Mood: Equatable {

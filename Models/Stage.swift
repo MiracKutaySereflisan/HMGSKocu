@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import Foundation
 
 /// Yolculuk yolundaki tek bir "ders" düğümü — bir dersin mevcut soru havuzundan

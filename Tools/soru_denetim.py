@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 # -*- coding: utf-8 -*-
 """HMGS Koçu — Soru Onay Kapısı.
 

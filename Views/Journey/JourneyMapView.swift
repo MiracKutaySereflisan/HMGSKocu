@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import SwiftUI
 
 /// Ders ders, aşama aşama ilerlenen yol haritası. "Sınav" sekmesindeki serbest

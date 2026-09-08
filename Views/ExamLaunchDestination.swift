@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import SwiftUI
 
 /// Sınav başlatmanın TEK yolu. Dört ekran (Ana Sayfa, Sınav, Havuz, Yolculuk)

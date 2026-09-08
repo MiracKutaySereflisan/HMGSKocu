@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import Foundation
 
 /// Bir sınav oturumunun kapsamı. `Codable` — kayıtlı oturumlarda saklandığı için

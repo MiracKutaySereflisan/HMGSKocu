@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import Foundation
 
 /// Diske JSON yazan basit kalıcılık katmanı. Uygulama tamamen çevrimdışı çalışır;

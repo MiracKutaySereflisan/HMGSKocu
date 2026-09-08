@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import SwiftUI
 import UIKit   // yalnızca renklerin Açık/Koyu moda göre otomatik değişmesi için
 

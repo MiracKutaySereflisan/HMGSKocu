@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import Foundation
 
 /// Bir sorunun bu kullanıcıdaki tüm denemeler boyunca birikmiş sayaçları —
